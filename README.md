@@ -15,6 +15,8 @@ Version 3 of my portfolio repository featuring an actual portfolio.
 <h1>Directory Structure:</h1>
 <!--warai-->
 <h1>Legal:</h1>
+Copyright of kiko o under a <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public Liscense (v3.0) 2022</a>
+<h3>Liscense Declares:</h3>
 <ol>
 <li>Copyright is asserted upon this directory.</li>
 <li>You are free to copy and distribute modified versions of files in this directory.</li>
