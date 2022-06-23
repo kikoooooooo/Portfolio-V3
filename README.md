@@ -1,8 +1,8 @@
 <h1>Portfolio-V3</h1>
 Version 3 of my portfolio repository featuring an actual portfolio.
 
-<h1>Changes Summarized</h1><h2>(In relative to V2)</h2>
-<h4>In order of importance.</h4>
+<h1>Changes Summarized</h1>
+<h4>Relative to <a href="https://github.com/kikoooooooo/portfolio-V2">Version 2</a>; listed In order of importance.</h4>
 <ol>
   <li>Created an actual portfolio and separated the sales outlet (deticated sales page).</li>
   <li>Implemented React Framework</li>
