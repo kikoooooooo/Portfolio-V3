@@ -1,6 +1,6 @@
 <h1>Portfolio-V3</h1>
 Version 3 of my portfolio repository featuring an actual portfolio.
-
+<hr/>
 <h1>Changes Summarized</h1>
 <h4>Relative to <a href="https://github.com/kikoooooooo/portfolio-V2">Version 2</a>; listed In order of importance.</h4>
 <ol>
@@ -13,7 +13,7 @@ Version 3 of my portfolio repository featuring an actual portfolio.
   <li>Updated Footer accordingly.</li>
 </ol>
 <h1>Directory Structure:</h1>
-
+<!--warai-->
 <h1>Legal:</h1>
 <ol>
 <li>Copyright is asserted upon this directory.</li>
@@ -27,4 +27,4 @@ Version 3 of my portfolio repository featuring an actual portfolio.
   <li>Background photo (uncredited) from Mac OS X Lion 10.7 obtained via <a href="https://www.wallpaperflare.com/" target="blank">wallpaperflare.com</a></li>
 </ul>
 Credited assets not subject to copyright nor liscensing & rights/credit go to the respective creators.
-<hr>
+<hr/>
