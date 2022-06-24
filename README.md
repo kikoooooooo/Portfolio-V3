@@ -15,7 +15,7 @@
 <h1>Directory Structure:</h1>
 <!--warai-->
 <h1>Legal:</h1>
-<h4>Copyright of kiko o under a <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public Liscense (v3.0) 2022</a></h4>
+<h4>Copyright of kiko o under a <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public Liscense (v3.0)</a> 2022 </h4>
 <h3>Liscense Declares:</h3>
 <ol>
 <li>Copyright is asserted upon this directory.</li>
