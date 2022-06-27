@@ -8,6 +8,7 @@
   <li>Populated the portfolio with education, works, contact outlet, and references.</li>
   <li>Populated the sales page with contents from the previous version: Packages, FAQ, Contact & Testimonials.</li>
   <li>Removed Netlify Status & Github embed to avoid confusing the customer.</li>
+  <li>Changed background, font, and highlight color.</li>
   <li>Added Settings.</li>
   <li>Updated Footer accordingly.</li>
 </ol>
