@@ -32,6 +32,7 @@
 <h1>External Credits</h1>
 <ul>
   <li>Background photo (uncredited) from Mac OS X Lion 10.7 obtained via <a href="https://www.wallpaperflare.com/" target="blank">wallpaperflare.com</a></li>
+  <a href="https://www.flaticon.com/free-icons/settings" title="settings icons">Settings icons created by Pixel perfect - Flaticon</a>
 </ul>
 Credited assets not subject to copyright nor liscensing & rights/credit go to the respective creators.
 <hr/>
