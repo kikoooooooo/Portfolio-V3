@@ -2,15 +2,21 @@
 <h4>Version 3 of my portfolio repository featuring an actual portfolio.</h4>
 <hr/>
 <h1>Changes Summarized</h1>
-<h4>Relative to <a href="https://github.com/kikoooooooo/portfolio-V2">Version 2</a>; listed In order of importance.</h4>
+<h4>Relative to <a href="https://github.com/kikoooooooo/portfolio-V2">Version 2</a> & listed In order of importance.</h4>
+<h2>Frontend</h2>
 <ol>
-  <li>Created an actual portfolio and separated the sales outlet (deticated sales page).</li>
-  <li>Implemented React Framework</li>
-  <li>Stying Redesign: <code>hover</code> elements are now light blue colored instead of salmon, new background image & various minor tweaks/additions</li>
   <li>Populated the portfolio with education, works, contact outlet, and references.</li>
-  <li>Populated the sales page with contents from the previous version: Packages, FAQ, Contact & New Feature; Testimonials.</li>
+  <li>Populated the sales page with contents from the previous version: Packages, FAQ, Contact & Testimonials.</li>
   <li>Removed Netlify Status & Github embed to avoid confusing the customer.</li>
+  <li>Added Settings.</li>
   <li>Updated Footer accordingly.</li>
+</ol>
+<h2>Backend</h2>
+<ol>
+  <li>Created an actual portfolio and separated the sales outlet into a deticated sales page.</li>
+  <li>Implemented React Framework.</li>
+  <li>Implemented Routes.</li>
+  <li>Added Settings.</li>
 </ol>
 <h1>Directory Structure:</h1>
 <!--warai-->
