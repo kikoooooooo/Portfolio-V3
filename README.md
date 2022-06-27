@@ -25,7 +25,6 @@
 </ol>
 <h1>External Credits</h1>
 <ul>
-  <li>Font courtesy of <a href="https://github.com/googlefonts/morisawa-biz-ud-gothic">Google Fonts (GitHub)</a> on behalf of <a href="https://en.morisawa.co.jp/">Morisawa Inc.</a></li>
   <li>Background photo (uncredited) from Mac OS X Lion 10.7 obtained via <a href="https://www.wallpaperflare.com/" target="blank">wallpaperflare.com</a></li>
 </ul>
 Credited assets not subject to copyright nor liscensing & rights/credit go to the respective creators.
