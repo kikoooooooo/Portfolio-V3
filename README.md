@@ -36,5 +36,5 @@
   <li>Setting icons courtesy of <a href="https://www.flaticon.com/" target="blank">Flaticon</a> on behalf of <a href="https://www.flaticon.com/free-icons/settings" title="settings icons" target="blank">Pixel perfect</a> *modified into svg format.</li>
   <li>Background photo (uncredited) from Mac OS X Lion 10.7 obtained via <a href="https://www.wallpaperflare.com/" target="blank">wallpaperflare.com</a></li>
 </ul>
-Credited assets not subject to copyright nor liscensing & rights/credit go to the respective creators.
+Web assets credited under "External Credits" are not subject to copyright nor liscensing & rights/credit go to the respective creators.
 <hr/>
