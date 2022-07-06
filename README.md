@@ -16,7 +16,7 @@
 <ol>
   <li>Created an actual portfolio and separated the sales outlet into a deticated sales page.</li>
   <li>Implemented React Framework.</li>
-  <li>Implemented Routes.</li>
+  <li>Implemented Routes. *just notation because everything was anchors</li>
   <li>Added Settings.</li>
 </ol>
 <h1>Directory Structure:</h1>
