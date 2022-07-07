@@ -1,0 +1,467 @@
+/*
+  Variables
+*/
+:root {
+  --HighLightColor: lightblue;
+  --settingGear: url(../images/settingsA.svg);
+}
+/*
+  Settings
+*/
+#settings {
+    margin-top: 5px;
+    height: 10px;
+    float: right;
+    position: relative;
+}
+
+#settingBut {
+    border: white;
+    background-color: white;
+    color: black;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    width: 6rem;
+    height: 4rem;
+    background-image: url(../images/settingsA.svg);
+    background-position-y: 50%;
+    background-position-x: 60%;
+    background-size: 40%;
+    background-repeat: no-repeat;
+    transition: .7s;
+    padding-bottom: 0;
+}
+
+#settingBut:hover {
+    background-size: 50%;
+}
+
+#settingBut img{
+    margin-top: .5rem;
+    margin-left: 60%;
+    max-width: 40px;
+}
+
+#settingDropdown {
+    position: absolute;
+    right: 0;
+    transition: 1s;
+    width: 0;
+}
+
+#settingDropdown button {
+    display: block;
+    margin-top: 5px;
+    font-size: large;
+    border-radius: 0;
+    padding-top: 0;
+    width: 100%;
+    transition: .5s;
+    border: white;
+    background-color: white;
+    color: black;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+#settingDropdown button:hover {
+    background: rgb(223, 223, 223);
+}
+/*
+  Top
+*/
+#title, #subtitle {
+    margin-bottom: 0;
+    font-weight: lighter;
+}
+
+#title {
+    font-size: 10rem;
+    display: inline;
+}
+
+#subtitle {
+    font-size: 3rem;
+    display: inline;
+}
+/*
+  Bio
+*/
+#bio hr {
+  margin-top: 0;
+}
+
+#bio p {
+    margin: 0;
+    padding: 0;
+    padding-top: 7px;
+    font-size: 1.7rem;
+}
+
+#bio h1 {
+    margin-bottom: 0; /*for hire page*/
+}
+
+#bio #priceline {
+    max-height: 1px;
+}
+
+#bio h3 {
+  font-weight: normal;
+}
+
+#underline {
+    display: inline;
+    text-decoration: underline;
+    cursor: no-drop;
+}
+/*
+  Buttons
+*/
+#butCon {
+    padding-top: 5%;
+    padding-bottom: 20%;
+}
+
+#butCon a {
+    text-decoration: none;
+}
+
+#butCon button {
+    min-height: 3rem;
+    min-width: 10rem;
+    cursor: pointer;
+}
+
+#homeBut {
+    width: 90%
+}
+/*
+  Index
+*/
+#iButCon {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+#iButCon a {
+  text-decoration: none;
+}
+
+#iButCon button {
+  min-height: 3rem;
+  display: block;
+  margin-right: auto;
+  margin-right: auto;
+  margin-left: auto;
+  min-width: 10rem;
+  cursor: pointer;
+}
+/*
+  Credentials // Education
+*/
+#education ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+#education li {
+    padding-left: 4.4%;
+    max-width: 20rem;
+    float: left;
+    transition: .5s;
+}
+
+#education li img{
+    filter: sepia(70%) contrast(50%);
+    transition: .5s;
+}
+
+#education li:hover {
+    transform: scale(1.1);
+}
+
+#education li img:hover{
+    filter: sepia(0);
+}
+
+#education h3 {
+    margin-bottom: 3px;
+}
+
+#education img {
+    max-width: 20rem;
+}
+/*
+  Works
+*/
+/*please be my first client*/
+/*
+    Contact
+*/
+#contact ul {
+    list-style-type: none;
+    display: flex;
+}
+
+#contact li {
+    padding-left: 4.5rem;
+    display: inline;
+}
+
+#contact h3 {
+    margin-bottom: 3px;
+}
+
+#contact a {
+    text-decoration: none;
+}
+
+#sessionString {
+    transition: 1s;
+    cursor: pointer;
+    margin: 0;
+}
+
+#sessionString:hover {
+    color: var(--HighLightColor);
+}
+/*
+  Form
+*/
+#formCon {
+    border: solid white 3px;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+    background-color: rgba(120, 120, 120, .3);
+}
+
+#contactForm {
+    padding-left: 1rem;
+}
+
+#contactForm h3 {
+    margin: 0;
+}
+
+#contactForm input {
+    height: 2rem;
+    border: transparent;
+    border-bottom: solid white 3px;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 230%;
+}
+
+#contactForm textarea {
+    border: solid white 3px;
+    border-radius: 5px;
+    font-family: monospace;
+    font-size: x-large;
+    max-width: 200%;
+    height: 13.5rem;
+}
+
+#nameCon {
+    display: inline;
+    float: left;
+}
+
+#emailCon {
+    display: inline;
+    float: left;
+}
+
+#message {
+    display: inline;
+    margin-right: 1rem;
+    width: 60%;
+    max-width: 39rem;
+    height: 10.8rem;
+    float: right;
+}
+
+#submit {
+    cursor: pointer;
+    width: 35%;
+    font-size: xx-large;
+}
+/*
+  BottomBut
+*/
+#bottomBut {
+    font-size: xx-large; 
+    color: white; 
+    background-color: transparent; 
+    border: solid 3px; 
+    border-radius: 50px; 
+    min-height: 3rem; 
+    min-width: 15rem; 
+    cursor: pointer;
+}
+
+#bottomBut:hover {
+    color: var(--mainHighLightColor);
+}
+/*
+  Footer
+*/
+/*
+  Packages
+*/
+#packages ul {
+  margin: 0;
+  float: left;
+}
+
+#packages img {
+  display: inline;
+  max-width: 40%;
+}
+
+#packages li {
+  text-align: left;
+  font-size: 1.7rem;
+  padding-top: 5px;
+  list-style-type: circle;
+}
+
+#priceline {
+    max-width: 95%;
+    min-width: 95%;
+}
+
+#packages h2 {
+  margin-bottom: 0px;
+}
+
+#packages h4 {
+  margin-top: 0;
+}
+
+#basicCon {
+  overflow: hidden;
+}
+
+#basic:hover {
+  cursor: pointer;
+}
+/*
+  FAQ
+*/
+#faq strong {
+    color: var(--HighLightColor);
+}
+/*
+  Screen-Size
+*/
+@media (min-width: 2100px) {
+  /*
+      Bio
+  */
+  #bio p {
+    margin: 0;
+    padding: 0;
+    padding-top: 7px;
+    font-size: 2.5rem;
+  }
+  /*
+      Buttons
+  */  
+  #butCon button {
+    min-height: 3rem;
+    min-width: 15rem;
+    cursor: pointer;
+  }
+}
+
+@media (max-width: 1000px) {
+  #packages ul {
+    float: none;
+  }
+  
+  #packages li {
+    text-align: center;
+  }
+  
+  #packages img {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+    /*    
+      Settings
+    */
+    #settings {
+      display: none;
+    }
+    /*
+      Top
+    */
+    #title {
+        font-size: 5rem;
+    }
+
+    #subtitle {
+        display: none;
+    }
+    /*
+      Buttons
+    */
+    #homeBut {
+      width: 80%;
+    }
+
+    #butCon button {
+        margin-right: auto;
+        margin-left: auto;
+        display: block;
+        transform: scale(1.3);
+    }
+    /*
+      Packages
+    */
+    #packages ul {
+      float: none;
+      padding-left: 0;
+    }
+
+    #packages li {
+        text-align: center;
+        list-style: none;
+    }
+
+    #packages img {
+      display: none;
+    }
+
+    /*
+      Form
+    */
+    #contactForm textarea {
+      border: solid white 3px;
+      border-radius: 5px;
+      font-family: monospace;
+      font-size: x-large;
+      max-width: 200%;
+      height: 13.5rem;
+    }
+
+    #message {
+      display: inline;
+      width: 93.5%;
+      height: 10.8rem;
+    }
+
+    #contactForm input {
+      padding-top: 1rem;
+      max-width: 129%;
+    }
+
+    #submit {
+      width: 96%;
+      margin-top: 1rem;
+    }
+}
