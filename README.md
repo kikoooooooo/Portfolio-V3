@@ -1,6 +1,6 @@
 <h1>Portfolio-V3</h1>
 <h3>Version 3 of my portfolio repository featuring an actual portfolio.</h3>
-<!--<img src=""></img>-->
+<img src="https://github.com/kikoooooooo/Portfolio-V3/blob/main/src/images/Screenshot%202022-07-06%20153907.png?raw=true"></img>
 <hr/>
 <h1>Changes Summarized</h1>
 <h4>Relative to <a href="https://github.com/kikoooooooo/portfolio-V2">Version 2</a> & listed In order of importance.</h4>
