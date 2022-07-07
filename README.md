@@ -68,7 +68,7 @@ portfolio
   <li>*Legacy* Font designed by <a href="https://en.morisawa.co.jp/" target="blank">Morisawa Inc.</a> generated with <a href="https://transfonter.org/>transfonter.org</a>.</li>
   <li>Setting icons courtesy of <a href="https://www.flaticon.com/" target="blank">Flaticon</a> on behalf of <a href="https://www.flaticon.com/free-icons/settings" title="settings icons" target="blank">Pixel perfect</a> *modified into svg format.</li>
   <li>Background photo (uncredited) from Mac OS X Lion 10.7 obtained via <a href="https://www.wallpaperflare.com/" target="blank">wallpaperflare.com</a>.</li>
-  <li>Favicon features graphics from Twitter Twemoji generated with <a href="https://favicon.io/">favicon.io</a>.</li>
+  <li>Favicon features graphics from Twitter Twemoji generated with <a href="https://favicon.io/">favicon.io</a>; see <a href="https://github.com/kikoooooooo/Portfolio-V3/blob/main/public/favicon/about.txt">/public/favicon/about.txt</a></li>
 </ul>
 Assets credited under "External Credits" are not subject to copyright nor liscensing & rights/credit go to the respective creators.
 <hr/>
