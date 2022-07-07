@@ -1,6 +1,6 @@
 <h1>Portfolio-V3</h1>
-<h3>Version 3 of my portfolio repository featuring an actual portfolio.</h3>
 <img src="https://github.com/kikoooooooo/Portfolio-V3/blob/main/src/images/Screenshot%202022-07-06%20153907.png?raw=true"></img>
+<h3>Version 3 of my portfolio featuring an actual portfolio.</h3>
 <hr/>
 <h1>Changes Summarized</h1>
 <h4>Relative to <a href="https://github.com/kikoooooooo/portfolio-V2">Version 2</a> & listed In order of importance.</h4>
@@ -20,8 +20,39 @@
   <li>Implemented Routes. *just notation because everything was anchors</li>
   <li>Added Settings.</li>
 </ol>
+<!-- Don't wan't to do this.
 <h1>Directory Structure:</h1>
-<!--warai-->
+<code>
+portfolio
+├───build
+├⠀⠀⠀└───[gitignore]
+├───dev
+├⠀⠀⠀└───[gitignore]
+├───node_modules
+├⠀⠀⠀└───[gitignore]
+├───public
+├⠀⠀⠀├───favicon
+├⠀⠀⠀├⠀⠀⠀├───about.txt
+├⠀⠀⠀├⠀⠀⠀├───android-chrome-192x192.png
+├⠀⠀⠀├⠀⠀⠀├───android-chrome-512x512.png
+├⠀⠀⠀├⠀⠀⠀├───apple-touch-icon.png
+├⠀⠀⠀├⠀⠀⠀├───favicon.ico
+├⠀⠀⠀├⠀⠀⠀├───favicon_io.zip
+├⠀⠀⠀├⠀⠀⠀├───favicon-16x16.png
+├⠀⠀⠀├⠀⠀⠀└───favicon-32x32.png
+├⠀⠀⠀├───font
+├⠀⠀⠀├⠀⠀⠀├───BIZUDGothic-Regular.eot
+├⠀⠀⠀├⠀⠀⠀├───BIZUDGothic-Regular.svg
+├⠀⠀⠀├⠀⠀⠀├───BIZUDGothic-Regular.ttf
+├⠀⠀⠀├⠀⠀⠀├───BIZUDGothic-Regular.woff
+├⠀⠀⠀├⠀⠀⠀├───BIZUDGothic-Regular.woff2
+├⠀⠀⠀├⠀⠀⠀└───transfonter.org-20220610-083538.zip
+├⠀⠀⠀├───index.html
+├⠀⠀⠀└───manifest.json
+├───LISCENSE.md
+├───README.url
+└───style.css</code>
+-->
 <h1>Legal:</h1>
 <h4>Copyright of kiko-o under a <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License (v3.0)</a> 2022 </h4>
 <h3>Liscense Declares:</h3>
