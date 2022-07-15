@@ -70,5 +70,5 @@ portfolio
   <li>Background photo (uncredited) from Mac OS X Lion 10.7 obtained via <a href="https://www.wallpaperflare.com/" target="blank">wallpaperflare.com</a></li>
   <li>Favicon features graphics from Twitter Twemoji generated with <a href="https://favicon.io/" target="blank">favicon.io</a>; see <a href="https://github.com/kikoooooooo/Portfolio-V3/blob/main/public/favicon/about.txt">/public/favicon/about.txt</a></li>
 </ul>
-Assets credited under "External Credits" are not subject to copyright nor liscensing & rights/credit go to the respective creators.
+Assets credited under "External Credits" are not subject to copyright nor liscensing & rights/credit go to the respective creator(s).
 <hr/>
